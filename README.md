@@ -3,11 +3,17 @@
 # Table of Contents :
 
 Introduction
+
 Features
+
 Technologies Used
+
 Installation
+
 Usage
+
 Folder Structure
+
 Contributing
 
 # Introduction :
