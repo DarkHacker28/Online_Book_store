@@ -52,7 +52,7 @@ Tomcat Server: For hosting the application.
 # Installation :
 
 Clone the Repository:
-git clone https://github.com/your-username/online-book-store.git
+git clone https://github.com/DarkHacker28/Online_Book_store
 
 Set Up the Database:
 Import the provided SQL dump file (database.sql) into MySQL.
